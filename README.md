@@ -2,9 +2,9 @@
 
 ## Task
 
-Create a microservice, that is able to tak as an input an country ISO code and a list of country names (in different languages) and will filter out just the countries that correspond to the provided ISO code.
+Create a microservice, that is able to take a country ISO code and a list of country names (in different languages) as an input. It will filter out just the countries that correspond to the provided ISO code and return them to the output.
 
-Serve the application as the API.
+Serve the application as a REST API.
 
 ### Example
 
